@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Apr 2021 19:57:40 +0530</lastBuildDate><atom:link href="https://midhunsureshr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome</title>
-      <link>https://midhunsureshr.github.io/posts/welcome/</link>
+      <title>Hello there!</title>
+      <link>https://midhunsureshr.github.io/posts/hello_there/</link>
       <pubDate>Mon, 12 Apr 2021 19:57:40 +0530</pubDate>
       
-      <guid>https://midhunsureshr.github.io/posts/welcome/</guid>
-      <description>Welcome to my blog!</description>
+      <guid>https://midhunsureshr.github.io/posts/hello_there/</guid>
+      <description>I&amp;rsquo;ll be writing about Hydrogen here as a part of Google Summer of Code.</description>
     </item>
     
   </channel>
