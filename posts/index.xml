@@ -6,7 +6,17 @@
     <description>Recent content in Posts on R Midhun Suresh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Apr 2021 19:57:40 +0530</lastBuildDate><atom:link href="https://midhunsureshr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jun 2021 20:15:45 +0530</lastBuildDate><atom:link href="https://midhunsureshr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GSoc Plans and warming up to Hydrogen</title>
+      <link>https://midhunsureshr.github.io/posts/gsoc-intro/</link>
+      <pubDate>Mon, 07 Jun 2021 20:15:45 +0530</pubDate>
+      
+      <guid>https://midhunsureshr.github.io/posts/gsoc-intro/</guid>
+      <description>Google Summer of Code 2021 is officially in full swing and I can&amp;rsquo;t wait to add some nifty features to ✨Hydrogen✨. This post is mainly so that I can warm up to the process of writing blogs and share some of my initial thoughts about the codebase.
+I think now is as good a time as any to announce the goals for the following 10 weeks. I will mostly be concerned with adding a right panel that shows the room details, member list, member details and an awesome UI to share your favorite room with the world (a.</description>
+    </item>
+    
     <item>
       <title>Hello there!</title>
       <link>https://midhunsureshr.github.io/posts/hello_there/</link>
