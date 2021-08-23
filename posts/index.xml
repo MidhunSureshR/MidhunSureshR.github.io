@@ -6,7 +6,22 @@
     <description>Recent content in Posts on R Midhun Suresh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jun 2021 20:15:45 +0530</lastBuildDate><atom:link href="https://midhunsureshr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Aug 2021 22:25:32 +0530</lastBuildDate><atom:link href="https://midhunsureshr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GSoC 2021 Work Product Description for Hydrogen</title>
+      <link>https://midhunsureshr.github.io/posts/final-post/</link>
+      <pubDate>Sun, 22 Aug 2021 22:25:32 +0530</pubDate>
+      
+      <guid>https://midhunsureshr.github.io/posts/final-post/</guid>
+      <description>Hi 👋,
+This blog post provides a summary of my net contributions to Hydrogen during the 10 wonderful weeks that were GSoC &amp;lsquo;21.
+Expected deliverables The general intention of my project was to build a right-panel with various
+information that could be accessed via the room-menu.
+More specifically, the goals were to implement:
+ Room Information Panel Memberlist Panel Member Information Panel Share Room View Single Sign-On
+My mentor (Bruno) correctly suggested that I attempt to implement SSO instead because that had greater utility.</description>
+    </item>
+    
     <item>
       <title>GSoc Plans and warming up to Hydrogen</title>
       <link>https://midhunsureshr.github.io/posts/gsoc-intro/</link>
